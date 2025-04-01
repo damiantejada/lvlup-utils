@@ -7,6 +7,6 @@
 ### Cambio visuales
 
 ### Checks
-[ ] Realice tests sobre los cambios visuales
-[ ] Mis cambios fueron probados en un entorno productivo
-[ ] Los cambios están flasgueados
+[ ] Realice tests sobre los cambios visuales  
+[ ] Mis cambios fueron probados en un entorno productivo  
+[ ] Los cambios están flasgueados  
