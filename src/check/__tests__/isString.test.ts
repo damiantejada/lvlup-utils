@@ -1,6 +1,6 @@
 import { it, expect, describe } from "vitest";
 
-import { isString } from "../isString";
+import { isString } from "@src/check/isString";
 describe("isString", () => {
   it('should return true if params is ""', () => {
     expect(isString("")).toBe(true);
